@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jamesjara/aws-iot-device-embed-js-Raspberry-pi/issues"
   },
-  "homepage": "https://github.com/jamesjara/aws-iot-device-embed-js-Raspberry-pi#readme"
+  "homepage": "https://github.com/jamesjara/aws-iot-device-embed-js-Raspberry-pi#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "moment": "^2.17.1"
+  }
 }
