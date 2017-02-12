@@ -1,0 +1,19 @@
+{
+  "name": "aws-iot-device-embed-js-raspberry-pi",
+  "version": "1.0.0",
+  "description": "Example app for AWS IoT Device SDK for JavaScript/Node.js on your Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesjara/aws-iot-device-embed-js-Raspberry-pi.git"
+  },
+  "author": "jamesjara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesjara/aws-iot-device-embed-js-Raspberry-pi/issues"
+  },
+  "homepage": "https://github.com/jamesjara/aws-iot-device-embed-js-Raspberry-pi#readme"
+}
